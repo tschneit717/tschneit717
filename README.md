@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm always redesigning my site
-- 🌱 I'm currently learning Java and Python
+- 🌱 I'm currently learning Python and Svelte
 - 🕔 I ⛷ ski ✈️ travel 🏕 hike and camp  
 
 Contact Me
