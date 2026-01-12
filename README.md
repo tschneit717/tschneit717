@@ -24,16 +24,6 @@ Currently working at **bwell**, helping people take control of their own health 
 - Python
 - Game dev stuff
 
-## GitHub Stats
-
-<div align="center">
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tschneit717&show_icons=true&theme=default)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tschneit717&layout=compact)
-  
-</div>
-
 ## A Bit More About Me
 
 I grew up camping and spent a good chunk of college hiking the Appalachian Trail. After college, I got into climbing and skiing, which led to a lot of trips out west—Colorado, Arizona, California, Utah.
